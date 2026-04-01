@@ -1,0 +1,1 @@
+# Macro_to_convert_all_parts_is_assenbly_in_sheet_metal_SW
